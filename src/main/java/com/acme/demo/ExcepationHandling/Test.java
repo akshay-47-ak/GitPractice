@@ -7,6 +7,8 @@ public class Test {
 
 	public static void main(String[] args) {
 
+		// Demo commit for Pratice
+		
 		int[] num1 = { 10, 20, 30, 40, 50, 60 };
 		int[] num2 = { 1, 2, 0, 4, 5, 6, };
 
