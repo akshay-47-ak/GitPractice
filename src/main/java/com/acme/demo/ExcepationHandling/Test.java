@@ -19,6 +19,7 @@ public class Test {
 	}
 
 	public static int divide(int a, int b) {
+		// Checking the Contribution Graph
 		try {
 			return a / b;
 		} catch (Exception e) {
